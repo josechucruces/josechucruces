@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @josechucruces
-- 👀 I’m interested in Python , Java, Html and I will like to be a good Data Analyst or backend developer .
-- 🌱 I’m currently learning DAM, Backend with Python and Machine learning with Kaggle 
-- 💞️ I’m looking to collaborate on develop projects
-- 📫 How to reach me : Jose Cruces Aparicio on Linkedin 
-- ⚡ Fun fact: Code, Trailrunning and Photography what a great combination 
+👋 ¡Hola! Soy José Cruces (@josechucruces)  
+🎓 Estudiante del Grado Superior DAM (Desarrollo de Aplicaciones Multiplataforma)  
+🔧 Apasionado por el backend, el análisis de datos y construir proyectos útiles desde cero
 
-<!---
-josechucruces/josechucruces is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🧠 **Lo que me gusta crear:**
+- APIs REST con Python (FastAPI)
+- Aplicaciones prácticas en Java
+- Análisis de datos con Python y Pandas
+- Interfaces simples para mejorar la experiencia del usuario
+
+🚀 **Mi portfolio:**  
+👉 [MYTOP10](https://github.com/josechucruces/MYTOP10): una selección de mis 10 mejores proyectos con código real
+
+🌱 **Actualmente aprendiendo:**  
+- Desarrollo backend profesional con Python  
+- SQL avanzado y bases de datos  
+- Machine Learning en Kaggle
+
+📌 **Busco prácticas o colaborar en proyectos de backend o data analytics**  
+📫 Puedes encontrarme en [LinkedIn – José Cruces Aparicio](https://www.linkedin.com/in/tu-url-aquí)
+
+⚡ **Intereses personales:** código, trail running y fotografía – ¡la combinación perfecta para la creatividad y la disciplina!
