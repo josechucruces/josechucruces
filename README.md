@@ -1,3 +1,6 @@
+<img src="banner.png" alt="banner" style="width:100%;"/>
+
+
 👋 Hi! I'm José Cruces (@josechucruces)  
 🎓 Vocational student in Multiplatform Application Development (DAM)  
 🔧 Passionate about backend development, data analysis, and building useful real-world applications
